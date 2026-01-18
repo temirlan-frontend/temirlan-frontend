@@ -11,6 +11,7 @@ Junior Frontend Developer
 - Работа с DOM
 - Git, GitHub
 - Bootstrap
+- TailwindCSS
 
 ---
 
