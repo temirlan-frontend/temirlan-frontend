@@ -31,3 +31,4 @@ Junior Frontend Developer
 
 ## 📫 Контакты
 - GitHub: https://github.com/temirlan-frontend
+- Email: temirlan.devpro@gmail.com
