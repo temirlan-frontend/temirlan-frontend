@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Привет, я Темирлан
 
-<!--
-**temirlan-frontend/temirlan-frontend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Frontend Developer  
+Изучаю JavaScript и современные веб-технологии
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Навыки
+- HTML, CSS
+- JavaScript (ES6+)
+- Работа с DOM
+- Git, GitHub
+- Bootstrap
+
+---
+
+## 📂 Учебные проекты
+- 📅 **Date and Time** — отображение даты и времени, переключение режимов  
+- 🧮 **Calculator** — простой калькулятор на JavaScript  
+- 📝 **Notes / Todo** — работа с массивами и событиями
+
+---
+
+## 🎯 Сейчас изучаю
+- JavaScript глубже
+- Асинхронность
+- Основы React
+
+---
+
+## 📫 Контакты
+- GitHub: https://github.com/ТВОЙ_НИК
