@@ -29,4 +29,4 @@ Junior Frontend Developer
 ---
 
 ## 📫 Контакты
-- GitHub: https://github.com/ТВОЙ_НИК
+- GitHub: https://github.com/temirlan-frontend
