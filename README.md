@@ -17,19 +17,27 @@
 
 ## 🧠 Навыки
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" title="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" title="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" title="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" title="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="50" height="50" title="Material UI" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/antdesign/antdesign-original.svg" width="50" height="50" title="Ant Design" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50" height="50" title="TailwindCSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zustand/zustand-original.svg" width="50" height="50" title="Zustand" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="50" height="50" title="Vite" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/axios/axios-original.svg" width="50" height="50" title="Axios" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50" height="50" title="SCSS" />
+## 🧠 Навыки
+
+<p>
+  <span style="display:inline-block; background:#61dafb; color:#000; padding:3px 8px; border-radius:5px; margin:2px; font-size:14px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" />
+    React
+  </span>
+  <span style="display:inline-block; background:#000; color:#fff; padding:3px 8px; border-radius:5px; margin:2px; font-size:14px;">⚡ Next.js</span>
+  <span style="display:inline-block; background:#007fff; color:#fff; padding:3px 8px; border-radius:5px; margin:2px; font-size:14px;">🎨 Material UI</span>
+  <span style="display:inline-block; background:#563d7c; color:#fff; padding:3px 8px; border-radius:5px; margin:2px; font-size:14px;">📦 Bootstrap</span>
+  <span style="display:inline-block; background:#17c3b2; color:#fff; padding:3px 8px; border-radius:5px; margin:2px; font-size:14px;">🛠 Ant Design</span>
+  <span style="display:inline-block; background:#06b6d4; color:#fff; padding:3px 8px; border-radius:5px; margin:2px; font-size:14px;">🌬 TailwindCSS</span>
+  <span style="display:inline-block; background:#764abc; color:#fff; padding:3px 8px; border-radius:5px; margin:2px; font-size:14px;">🔧 Redux Toolkit</span>
+  <span style="display:inline-block; background:#0f4c81; color:#fff; padding:3px 8px; border-radius:5px; margin:2px; font-size:14px;">💎 RTK Query</span>
+  <span style="display:inline-block; background:#ff7f0e; color:#fff; padding:3px 8px; border-radius:5px; margin:2px; font-size:14px;">🌀 Zustand</span>
+  <span style="display:inline-block; background:#f06529; color:#fff; padding:3px 8px; border-radius:5px; margin:2px; font-size:14px;">⚡ Axios</span>
+  <span style="display:inline-block; background:#f0db4f; color:#000; padding:3px 8px; border-radius:5px; margin:2px; font-size:14px;">📜 JavaScript</span>
+  <span style="display:inline-block; background:#e34f26; color:#fff; padding:3px 8px; border-radius:5px; margin:2px; font-size:14px;">🔥 HTML</span>
+  <span style="display:inline-block; background:#264de4; color:#fff; padding:3px 8px; border-radius:5px; margin:2px; font-size:14px;">💧 CSS</span>
 </p>
+
 
 
 ---
