@@ -23,10 +23,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" title="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" title="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" title="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" title="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="50" height="50" title="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50" title="Bootstrap" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50" height="50" title="TailwindCSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="50" height="50" title="TailwindCSS" />
 </p>
+
 
 
 ---
@@ -47,16 +48,6 @@
 - TypeScript  
 - Асинхронность (fetch, async/await)  
 - Next.js  
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <!-- GitHub Stats Cards -->
-  <img src="https://github-readme-stats.vercel.app/api?username=temirlan-frontend&show_icons=true&theme=default" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=temirlan-frontend&layout=compact&theme=default" alt="Top Languages" />
-</p>
 
 ---
 
