@@ -18,7 +18,7 @@
 ## 🧠 Навыки
 
 <p>
-  <span style="display:inline-flex; align-items:center; gap:5px; background:linear-gradient(135deg,#61dafb,#21a1f1); color:#fff; padding:4px 10px; border-radius:12px; margin:2px; font-size:14px; box-shadow:0 2px 5px rgba(0,0,0,0.15);">
+  <span style="display:inline-flex; align-items:center; gap:3px; background: lightgray; color:#000; padding:4px 10px; border-radius:12px; margin:2px; font-size:14px; box-shadow:0 2px 5px rgba(0,0,0,0.15);">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" /> React
   </span>
 
