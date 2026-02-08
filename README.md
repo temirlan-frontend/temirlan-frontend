@@ -1,34 +1,69 @@
-# 👋 Привет, я Темирлан
+<p align="center">
+  👋 Привет, я <b>Темирлан</b> — Junior Frontend Developer
+</p>
 
-Junior Frontend Developer  
-Изучаю JavaScript и современные веб-технологии
+<p align="center">
+  💻 Создаю современные веб‑проекты с использованием JavaScript и React
+</p>
+
+---
+
+## 🧠 Обо мне
+
+Я изучаю современные веб‑технологии и создаю проекты, которые помогают мне расти как разработчик.  
+Люблю писать чистый код и учиться новому каждый день. 🚀
 
 ---
 
 ## 🧠 Навыки
-- HTML, CSS
-- JavaScript (ES6+)
-- Работа с DOM
-- Git, GitHub
-- Bootstrap
-- TailwindCSS
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" title="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" title="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" title="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" title="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50" title="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50" height="50" title="TailwindCSS" />
+</p>
+
 
 ---
 
-## 📂 Учебные проекты
-- 📅 **Date and Time** — отображение даты и времени, переключение режимов  
-- 🧮 **Calculator** — простой калькулятор на JavaScript  
-- 📝 **Notes / Todo** — работа с массивами и событиями
+## 📂 Проекты
+
+🔹 **Date and Time** — отоброжение даты и времени  
+🔹 **Calculator** — простой JS‑калькулятор  
+🔹 **Notes / Todo** — заметки с работой с DOM  
+🔹 **React Tic‑Tac‑Toe** — игра крестики‑нолики на React  
+🔹 **React Filterable Product Table** — таблица с фильтрацией  
+🔹 **Crypto‑App** — приложение для просмотра курсов крипты  
+🔹 **Plant‑Website** — сайт магазина растений 🌿
 
 ---
 
 ## 🎯 Сейчас изучаю
-- JavaScript глубже
-- Асинхронность
-- Основы React
+- TypeScript  
+- Асинхронность (fetch, async/await)  
+- Next.js  
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <!-- GitHub Stats Cards -->
+  <img src="https://github-readme-stats.vercel.app/api?username=temirlan-frontend&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=temirlan-frontend&layout=compact&theme=default" alt="Top Languages" />
+</p>
 
 ---
 
 ## 📫 Контакты
-- GitHub: https://github.com/temirlan-frontend
+- GitHub: https://github.com/temirlan-frontend  
 - Email: temirlan.devpro@gmail.com
+
+<p align="center">
+  Спасибо, что заглянул! 😊
+</p>
